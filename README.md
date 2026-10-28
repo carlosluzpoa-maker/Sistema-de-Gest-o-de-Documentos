@@ -1,4 +1,4 @@
-# SGI Docs Faura
+# SGI Docs
 
 Sistema web de controle de documentos do Sistema de Gestão Integrada (requisito 7.5 "Informação documentada" das ISO 9001/14001/45001): lista mestra, revisões com histórico, aprovação, validade, evidência de leitura ("Li e compreendi"), relatórios e aviso por e-mail.
 
